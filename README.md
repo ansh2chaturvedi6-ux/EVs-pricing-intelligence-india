@@ -19,7 +19,7 @@ features give maximum perceived value per rupee spent?
 
 ---
 
-## 🚘 EVs Analyzed
+##EVs Analyzed
 
 | Brand | Model | Variants | Price Range |
 |-------|-------|----------|-------------|
@@ -46,7 +46,7 @@ features give maximum perceived value per rupee spent?
 
 ---
 
-## 💡 Key Findings
+##  Key Findings
 
 - **OTA connectivity** commands ₹80,000–₹1,20,000 price premium but 
   costs ~₹12,000 to implement — a **7.5x value multiplier**
@@ -57,7 +57,7 @@ features give maximum perceived value per rupee spent?
 
 ---
 
-## 📊 Outputs
+##  Outputs
 
 - `data/ev_pricing_data.xlsx` — Raw variant data across 18 variants
 - `analysis/ev_analysis.ipynb` — Python EDA, charts, correlation heatmap
@@ -65,7 +65,7 @@ features give maximum perceived value per rupee spent?
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 `Python` `Pandas` `Matplotlib` `Seaborn` `Excel` `Canva`
 
